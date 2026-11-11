@@ -48,4 +48,34 @@ Businesses could explore:
 
 Understanding customer segments helps businesses move away from generic retention campaigns towards more focused customer engagement strategies.
 
+## 7. Payment Method Analysis
+
+### Churn Rates by Payment Method
+
+The analysis shows differences in observed churn across payment methods:
+
+| Payment Method | Customers Churned | Churn Rate |
+|---|---:|---:|
+| Bank transfer (automatic) | 258 | 16.71% |
+| Credit card (automatic) | 232 | 15.22% |
+| Electronic check | 1,071 | 45.29% |
+| Mailed check | 308 | 19.11% |
+
+### Key Observation
+
+Customers using electronic checks have the highest observed churn rate at **45.29%**, compared with 15.22% for customers using automatic credit card payments.
+
+### Business Interpretation
+
+The difference suggests that payment method may be a useful factor when identifying customer groups that need additional retention attention.
+
+### Strategic Opportunity
+
+Businesses could investigate whether payment convenience, billing experience, or payment-related friction contributes to the higher churn observed among electronic-check customers. They could also test whether encouraging convenient automatic payment options improves the customer experience.
+
+### Analytical Limitation
+
+These results show an association between payment method and churn. They do not establish that payment method causes customers to cancel their subscriptions.
+
+
 The objective is to support better customer retention, improve customer experience, and protect recurring revenue.
