@@ -75,3 +75,33 @@ The proposed roadmap aims to support:
 - Sustainable recurring revenue growth.
 
 Actual outcomes should be evaluated after implementation using measurable business results.
+
+## 6. Data-Driven Implementation Priorities
+
+Based on the completed customer churn analysis, the following priorities are recommended:
+
+| Priority | Customer Group | Observed Churn Rate |
+|---|---|---:|
+| High | Customers with less than 12 months tenure | 48.28% |
+| High | Electronic check customers | 45.29% |
+| High | Month-to-month contract customers | 42.71% |
+| Medium | Customers in the $70–$80 monthly charge range | 39.82% |
+
+### Suggested Action Sequence
+
+1. Identify customers belonging to the high-churn segments.
+2. Investigate the reasons behind their cancellations.
+3. Design targeted retention initiatives.
+4. Test the initiatives with selected customer groups.
+5. Monitor churn rates and recurring revenue to evaluate effectiveness.
+
+### Measurement and Review
+
+Review the following indicators regularly:
+
+- Overall customer churn rate.
+- Churn rate by customer segment.
+- Monthly recurring revenue.
+- Customer retention campaign performance.
+
+These priorities are based on observed associations in the dataset. Their effectiveness must be evaluated through actual implementation and measurement.
