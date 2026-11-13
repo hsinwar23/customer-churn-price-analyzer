@@ -65,3 +65,68 @@ The proposed strategies aim to support:
 - Sustainable long-term business growth.
 
 Actual business impact should be evaluated through measurable results after implementation.
+
+## 7. Strategic Recommendations
+
+Based on the customer churn, contract, tenure, pricing, payment method, and revenue analyses, the following strategies are recommended.
+
+### 1. Strengthen Early Customer Retention
+
+**Finding:** Customers with less than 12 months of tenure have an observed churn rate of 48.28%.
+
+**Recommendation:**
+- Introduce structured onboarding for new customers.
+- Conduct early customer satisfaction check-ins.
+- Identify and address service issues before customers consider cancelling.
+
+### 2. Encourage Longer-Term Contracts
+
+**Finding:** Month-to-month customers have a churn rate of 42.71%, compared with 11.27% for one-year contracts and 2.83% for two-year contracts.
+
+**Recommendation:**
+- Offer incentives for customers considering longer-term subscriptions.
+- Communicate the benefits of longer-term plans.
+- Test retention offers for month-to-month customers.
+
+### 3. Investigate Electronic Check Customers
+
+**Finding:** Customers using electronic checks have the highest observed churn rate at 45.29%.
+
+**Recommendation:**
+- Investigate potential billing and payment experience issues.
+- Make automatic payment options easier to understand and adopt.
+- Test whether payment convenience initiatives improve retention.
+
+### 4. Review Pricing and Subscription Value
+
+**Finding:** The $70–$80 monthly charge group has the highest observed churn rate at 39.82%.
+
+**Recommendation:**
+- Review the service bundles used by customers in higher-churn price ranges.
+- Evaluate whether customers perceive sufficient value from their subscriptions.
+- Test targeted offers before making broad pricing changes.
+
+### 5. Protect Recurring Revenue
+
+**Finding:** Monthly charges associated with churned customers total $139,130.85.
+
+**Recommendation:**
+- Prioritize retention efforts using customer risk and subscription value.
+- Focus on preventing avoidable cancellations.
+- Monitor churn and recurring revenue indicators regularly.
+
+## Implementation Priorities
+
+| Priority | Initiative | Suggested Focus |
+|---|---|---|
+| High | Early customer engagement | First 12 months |
+| High | Month-to-month retention | Contract renewal |
+| High | Electronic check investigation | Billing experience |
+| Medium | Pricing and bundle review | Higher-churn price groups |
+| Medium | Revenue monitoring | Monthly performance review |
+
+## Conclusion
+
+The analysis highlights several customer groups with elevated observed churn rates. By combining customer segmentation, improved onboarding, payment experience reviews, contract incentives, and pricing investigations, businesses can develop more focused customer retention strategies.
+
+These recommendations should be tested and evaluated using actual retention outcomes before being adopted at scale.
